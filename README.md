@@ -14,7 +14,7 @@ drivers are the ones that use this system to process and print out receipts of t
 **Download the full assignment spec:** [COSC2531_Assignment1_Sem22023.pdf](COSC2531_Assignment1_Sem22023.pdf)
 
 ## Dependencies
-* Python (version 3.6)
+* Python (version 3.6+)
 
 ## Usage
 To run the code, save the Python script as `main.py` and execute it from the terminal using `python main.py`.
