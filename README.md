@@ -1,10 +1,11 @@
-# Python_Programming_Fundamentals_Assignment_1_Taxi_Man_Sys
-# First Python Programming Fundamentals Assignment. Taxi Management System.
-
 # Python Programming Fundamentals Assignment 1
-
 **Student Name:** Andrew Sevilla
+
 **Student ID:** s2010815T
+
+**Repo Name:** Python_Programming_Fundamentals_Assignment_1_Taxi_Man_Sys
+
+**Short Description:** First Python Programming Fundamentals Assignment. Taxi Management System.
 
 ## Overview
 This repository contains the code for Assignment 1 of the Python Programming Fundamentals course (COSC2531). The assignment involves developing a taxi management system. The taxi
